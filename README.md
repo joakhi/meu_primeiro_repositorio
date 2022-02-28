@@ -1,3 +1,4 @@
 # meu_primeiro_repositorio
-hellow world
+hello world
 significa olá mundo
+e esse é meu primeiro arquivo no github
